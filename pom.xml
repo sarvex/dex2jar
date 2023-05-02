@@ -134,7 +134,7 @@ Rev = {node|short}
                     <dependency>
                         <groupId>ant-contrib</groupId>
                         <artifactId>ant-contrib</artifactId>
-                        <version>1.0b3</version>
+                        <version>20020829</version>
                         <exclusions>
                             <exclusion>
                                 <groupId>ant</groupId>
